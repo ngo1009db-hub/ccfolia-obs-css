@@ -1,0 +1,12 @@
+
+/* CCFOLIA OBS — 盤面全部表示 */
+
+@import url("./base.css");
+
+:root {
+    --obs-background: visible;
+    --obs-foreground: visible;
+    --obs-characters: visible;
+    --obs-markers: visible;
+    --obs-screens: visible;
+}
